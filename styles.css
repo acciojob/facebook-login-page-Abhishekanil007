@@ -1,1 +1,62 @@
 /*  your css code here. If applicable */
+*{
+	background-color:white;
+}
+.facebook-login{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.facebook-img{
+	width:19rem;
+}
+.logo-para{
+	margin-left: 2rem;
+	font-size:25px;
+}
+
+form>input{
+	margin-bottom:1rem;
+	width: 15rem;
+	height: 2rem;
+	margin-left: 1rem;
+	margin-top: 1rem;
+
+}
+.form-side{
+	background-color:white;
+	width:20rem;
+	margin-left:3rem;
+	margin-top: 3rem;
+  box-shadow: 0px 0px 3px #888888;
+	
+}
+form{
+	background-color:white;
+	text-align:center;
+	
+}
+
+form>button{
+	padding:10px;
+	border:none;
+	border-radius:5px;
+	
+}
+.login-button{
+	background-color:#1877f2;
+	text-align: center;  
+	width: 16rem;  
+	margin-left:1rem;
+	margin-bottom:1rem;
+	color:white;
+}
+.anchor{
+	text-decoration:none;
+	
+}
+.btn-account{
+	background-color:green;
+	color:white;
+	margin-bottom:1rem;
+}
